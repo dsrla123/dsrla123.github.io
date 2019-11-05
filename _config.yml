@@ -5,14 +5,14 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: https://dsrla123.github.io
+url:
 
 # Owner/author information
 owner:
-  name:           김호성
+  name:           Your Name
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          dsrla123@naver.com
+  email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -87,4 +87,3 @@ exclude:
   - package.json
   - spec
   - tmp
-remote_theme : mmistakes/minimal-mistakes
