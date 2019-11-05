@@ -7,6 +7,7 @@ words_per_minute: 200
 # When testing locally leave blank or use http://localhost:4000
 url: "https://dsrla123.github.io/"
 baseurl: ""
+repository: dsrla123/dsrla123.github.io
 # Owner/author information
 owner: '김호성'
   name: '김호성'
