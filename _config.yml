@@ -8,11 +8,11 @@ words_per_minute: 200
 url: "https://dsrla123.github.io/"
 baseurl: ""
 # Owner/author information
-owner: 김호성
-  name:           김호성
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          dsrla123@naver.com
+owner: '김호성'
+  name: '김호성'
+  avatar: avatar.jpg
+  bio: "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  email: 'dsrla123@naver.com'
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
